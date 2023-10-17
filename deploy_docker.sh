@@ -17,7 +17,7 @@ APP_OUT=${APP_HOME}/logs
 # 阿里云仓库命名空间
 APP_NAMESPACE=runnable-run-starry
 # 推送至阿里云仓库的地址
-APP_REGISURL=registry.cn-hangzhou.aliyuncs.com/runnable-run-starry/demo-springboot-simple
+APP_REGISURL=registry.cn-hangzhou.aliyuncs.com/runnable-run-starry/demo-springboot
 APP_RESP=${APP_REGISURL}/${APP_NAMESPACE}/${APP}
 # 阿里云账号
 APP_USERNAME=aliyun5755436200

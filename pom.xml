@@ -16,7 +16,7 @@
 	<properties>
 		<java.version>17</java.version>
 		<docker.namespace>runnable-run-starry</docker.namespace>
-		<docker.registry.address>registry.cn-hangzhou.aliyuncs.com/runnable-run-starry/demo-springboot-simple</docker.registry.address>
+		<docker.registry.address>registry.cn-hangzhou.aliyuncs.com/runnable-run-starry/demo-springboot</docker.registry.address>
 	</properties>
 	<dependencies>
 		<dependency>
