@@ -16,7 +16,7 @@ public class HelloController {
     @GetMapping("/hello")
     @ResponseBody
     public String hello(){
-        return "hello " + appConfig.getEnv();
+        return "hello " + appConfig.getEnv()+"\nstarry";
     }
 
 
